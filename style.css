@@ -1,3 +1,24 @@
+
+
 body {
-    background: blue;
+    background: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #adff2f
+    
+}
+
+div {
+    background: black;
+    font-size: 18px;
+}
+
+button {
+background: black;
+font-family: 'Courier New', Courier, monospace;
+color: #adff2f;
+text-align: center;
+border: 2px solid #adff2f
+
+
 }
