@@ -2,23 +2,29 @@
 
 body {
     background: black;
+    margin: 10px 50px 20px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color: #adff2f
+    color: #adff2f;
     
 }
 
 div {
     background: black;
+    margin: 2px 50px 20px;
     font-size: 18px;
 }
 
 button {
 background: black;
+padding: 9px;
+float: center;
 font-family: 'Courier New', Courier, monospace;
 color: #adff2f;
-text-align: center;
-border: 2px solid #adff2f
+text-align: left;
+border: 2px solid #adff2f;
+
+
 
 
 }
